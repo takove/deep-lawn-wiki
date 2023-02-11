@@ -10,13 +10,13 @@ This walkthrough will take you through all the steps needed to get your Deep Law
 
 {% quick-link title="Setting up your account" icon="theming" href="/" description="Step-by-step guides to setting up your account." /%}
 
-{% quick-link title="Service Area" icon="presets" href="/" description="Learn how the internals work and contribute." /%}
+{% quick-link title="Service Area" icon="presets" href="/" description="description" /%}
 
-{% quick-link title="Services, Packages, and Discounts" icon="plugins" href="/" description="Extend the library with third-party plugins or write your own." /%}
+{% quick-link title="Services, Packages, and Discounts" icon="plugins" href="/" description="description" /%}
 
-{% quick-link title="Branding" icon="theming" href="/" description="Learn to easily customize and modify your app's visual design to fit your brand." /%}
+{% quick-link title="Branding" icon="theming" href="/" description="description" /%}
 
-{% quick-link title="Integrations" icon="theming" href="/" description="Learn to easily customize and modify your app's visual design to fit your brand." /%}
+{% quick-link title="Integrations" icon="theming" href="/" description="description" /%}
 
 {% /quick-links %}
 
@@ -24,7 +24,7 @@ Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit per
 
 ---
 
-## Quick start
+## Setting up your account
 
 Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
 
@@ -65,7 +65,7 @@ This is what a disclaimer message looks like. You might want to include inline `
 
 ---
 
-## Basic usage
+## Service area
 
 Praesentium laudantium magni. Consequatur reiciendis aliquid nihil iusto ut in et. Quisquam ut et aliquid occaecati. Culpa veniam aut et voluptates amet perspiciatis. Qui exercitationem in qui. Vel qui dignissimos sit quae distinctio.
 

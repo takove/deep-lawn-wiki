@@ -15,55 +15,47 @@ const navigation = [
   {
     title: 'Introduction',
     links: [
-      { title: 'Getting started', href: '/' },
-      { title: 'Service Area', href: '/docs/installation' },
+      { title: 'Setting up your account', href: '/docs/installation' },
     ],
   },
   {
-    title: 'Core concepts',
+    title: 'Service Area',
     links: [
-      { title: 'Understanding caching', href: '/docs/understanding-caching' },
-      {
-        title: 'Predicting user behavior',
-        href: '/docs/predicting-user-behavior',
-      },
-      { title: 'Basics of time-travel', href: '/docs/basics-of-time-travel' },
-      {
-        title: 'Introduction to string theory',
-        href: '/docs/introduction-to-string-theory',
-      },
-      { title: 'The butterfly effect', href: '/docs/the-butterfly-effect' },
+      { title: 'Define your Service Area', href: '/docs/understanding-caching' },
+     
     ],
   },
   {
-    title: 'Advanced guides',
+    title: 'Services, Packages, and Discounts',
     links: [
-      { title: 'Writing plugins', href: '/docs/writing-plugins' },
-      { title: 'Neuralink integration', href: '/docs/neuralink-integration' },
-      { title: 'Temporal paradoxes', href: '/docs/temporal-paradoxes' },
-      { title: 'Testing', href: '/docs/testing' },
-      { title: 'Compile-time caching', href: '/docs/compile-time-caching' },
-      {
-        title: 'Predictive data generation',
-        href: '/docs/predictive-data-generation',
-      },
+      { title: 'Services, Packages, and Discounts', href: '/docs/writing-plugins' },
+      
     ],
   },
   {
-    title: 'API reference',
+    title: 'Branding',
     links: [
-      { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
-      { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
-      { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
-      { title: 'CacheAdvance.regret()', href: '/docs/cacheadvance-regret' },
+      { title: 'Widget', href: '/docs/cacheadvance-predict' },
+      { title: 'Lead Form', href: '/docs/cacheadvance-flush' },
+      { title: 'Measurement', href: '/docs/cacheadvance-revert' },
+      { title: 'Service Cards', href: '/docs/cacheadvance-regret' },
+      { title: 'Checkout', href: '/docs/cacheadvance-revert' },
+      { title: 'Settings', href: '/docs/cacheadvance-regret' },
     ],
   },
   {
-    title: 'Contributing',
+    title: 'Integrations',
     links: [
-      { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      { title: 'Architecture guide', href: '/docs/architecture-guide' },
-      { title: 'Design principles', href: '/docs/design-principles' },
+      { title: 'Installing the Widget', href: '/docs/how-to-contribute' },
+      { title: 'Integrations', href: '/docs/architecture-guide' },
+      { title: 'Add-ons', href: '/docs/design-principles' },
+    ],
+  },
+  {
+    title: 'My Account',
+    links: [
+      { title: 'Title', href: '/docs/how-to-contribute' },
+      
     ],
   },
 ]
