@@ -12,7 +12,7 @@ This walkthrough will take you through all the steps needed to get your Deep Law
 
 {% quick-link title="Service Area" icon="presets" href="/docs/define-your-service-area" description="description" /%}
 
-{% quick-link title="Services, Packages, and Discounts" icon="plugins" href="/" description="description" /%}
+{% quick-link title="Services, Packages, and Discounts" icon="plugins" href="/docs/services-tab" description="description" /%}
 
 {% quick-link title="Branding" icon="theming" href="/" description="description" /%}
 
