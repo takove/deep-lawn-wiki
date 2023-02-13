@@ -6,69 +6,35 @@ description: Quidem magni aut exercitationem maxime rerum eos.
 Tutorial Video: [Click to see step-by-step video](https://www.youtube.com/watch?v=X5SvxXSX68c)
 
 ---
+![Images](/https://picsum.photos/200/300)
 
-## Quis vel iste dicta
-
-Deep Lawn's service area allows you to identify the areas you service. Customers inside your service area will be able to get an estimate on your storefront, while customers outside your service area will not and instead see a picture of the area you do service:
+Deep Lawn's service area allows you to identify the areas you service. Customers inside your service area will be able to get an estimate on your Storefront Widget, while customers outside your service area will not and instead see a picture of the area you do service:
 
 
-### Et pariatur ab quas
+## Adding Regions
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+![Images](/https://picsum.photos/200/300)
 
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
-![alt text](https://picsum.photos/200/300)
-![alt|img-thumbnail](https://picsum.photos/200/300)
+To define your service area, begin on the Service Area Tab. If you are new to Deep Lawn, the map will begin centered around the address listed in your company's profile. You can zoom the map in and out using the mouse wheel or the plus and minus buttons in the bottom right hand corner. To create your company's service area click  "add"
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+Then click on the map to create your first dot. Continuing clicking and adding dots to define your service area. When you are done, click on the first dot again to complete the shape. Once you connect your first set of dots, you can then drag the dots to adjust your service area. 
 
-### Natus aspernatur iste
+![Images](/https://picsum.photos/200/300)
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+If you make a mistake, then at any time you can use the undo and redo buttons on the right side of the screen to go back and forth through your changes. You also have the option to delete a service area and start again.
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+![Images](/https://picsum.photos/200/300)
 
----
+## Service Area with Geopricing
 
-## Quos porro ut molestiae
+If you have Geopricing enabled then you will also have the zip code option to define service areas. 
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+![Images](/https://picsum.photos/200/300)
 
-### Voluptatem quas possimus
+When you click Zip Code, a menu will appear where you can type in the zip codes you service. 
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+![Images](/https://picsum.photos/200/300)
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+You can put in as many as you want, one at a time pressing enter after each zip code. Each zip code added will appear in a list. If  you need to remove a zip code - you can remove it, by clicking the white X next to it.
 
-### Id vitae minima
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
-
----
-
-## Vitae laborum maiores
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Corporis exercitationem
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Reprehenderit magni
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+![Images](/https://picsum.photos/200/300)
