@@ -10,9 +10,9 @@ This walkthrough will take you through all the steps needed to get your Deep Law
 
 {% quick-link title="Setting up your account" icon="theming" href="/docs/setting-up-your-account" description="Step-by-step guides to setting up your account." /%}
 
-{% quick-link title="Service Area" icon="presets" href="/docs/define-your-service-area" description="description" /%}
+{% quick-link title="Services Area Tab" icon="presets" href="/docs/define-your-service-area" description="description" /%}
 
-{% quick-link title="Services, Packages, and Discounts" icon="plugins" href="/docs/services-tab" description="description" /%}
+{% quick-link title="Services Tab" icon="plugins" href="/docs/services-tab" description="description" /%}
 
 {% quick-link title="Branding" icon="theming" href="/" description="description" /%}
 
