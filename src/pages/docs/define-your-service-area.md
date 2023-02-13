@@ -1,15 +1,16 @@
 ---
-title: Installation
+title: Define your Service Area
 description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+Tutorial Video: [Click to see step-by-step video](https://www.youtube.com/watch?v=X5SvxXSX68c)
 
 ---
 
 ## Quis vel iste dicta
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Deep Lawn's service area allows you to identify the areas you service. Customers inside your service area will be able to get an estimate on your storefront, while customers outside your service area will not and instead see a picture of the area you do service:
+
 
 ### Et pariatur ab quas
 
@@ -25,6 +26,8 @@ export default {
   },
 }
 ```
+![alt text](https://picsum.photos/200/300)
+![alt|img-thumbnail](https://picsum.photos/200/300)
 
 Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
 

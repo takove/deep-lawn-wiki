@@ -15,13 +15,13 @@ const navigation = [
   {
     title: 'Introduction',
     links: [
-      { title: 'Setting up your account', href: '/docs/installation' },
+      { title: 'Setting up your account', href: '/docs/setting-up-your-account' },
     ],
   },
   {
     title: 'Service Area',
     links: [
-      { title: 'Define your Service Area', href: '/docs/understanding-caching' },
+      { title: 'Define your Service Area', href: '/docs/define-your-service-area' },
      
     ],
   },
