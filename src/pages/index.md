@@ -8,7 +8,7 @@ This walkthrough will take you through all the steps needed to get your Deep Law
 
 {% quick-links %}
 
-{% quick-link title="Setting up your account" icon="theming" href="/" description="Step-by-step guides to setting up your account." /%}
+{% quick-link title="Setting up your account" icon="theming" href="/docs/setting-up-your-account" description="Step-by-step guides to setting up your account." /%}
 
 {% quick-link title="Service Area" icon="presets" href="/docs/define-your-service-area" description="description" /%}
 

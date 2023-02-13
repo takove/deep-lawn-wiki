@@ -1,6 +1,6 @@
 ---
 title: Define your Service Area
-description: Quidem magni aut exercitationem maxime rerum eos.
+description: description
 ---
 
 Tutorial Video: [Click to see step-by-step video](https://www.youtube.com/watch?v=X5SvxXSX68c)
@@ -11,7 +11,7 @@ Tutorial Video: [Click to see step-by-step video](https://www.youtube.com/watch?
 Deep Lawn's service area allows you to identify the areas you service. Customers inside your service area will be able to get an estimate on your Storefront Widget, while customers outside your service area will not and instead see a picture of the area you do service:
 
 
-## Adding Regions
+# Adding Regions
 
 ![Images](/https://picsum.photos/200/300)
 
@@ -25,7 +25,7 @@ If you make a mistake, then at any time you can use the undo and redo buttons on
 
 ![Images](/https://picsum.photos/200/300)
 
-## Service Area with Geopricing
+# Service Area with Geopricing
 
 If you have Geopricing enabled then you will also have the zip code option to define service areas. 
 

@@ -19,16 +19,16 @@ const navigation = [
     ],
   },
   {
-    title: 'Service Area',
+    title: 'Service Area Tab',
     links: [
       { title: 'Define your Service Area', href: '/docs/define-your-service-area' },
      
     ],
   },
   {
-    title: 'Services, Packages, and Discounts',
+    title: 'Services Tab',
     links: [
-      { title: 'Services, Packages, and Discounts', href: '/docs/writing-plugins' },
+      { title: 'Services Tab', href: '/docs/services-tab' },
       
     ],
   },
