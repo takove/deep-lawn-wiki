@@ -14,9 +14,21 @@ This walkthrough will take you through all the steps needed to get your Deep Law
 
 {% quick-link title="Services Tab" icon="plugins" href="/docs/services-tab" description="description" /%}
 
-{% quick-link title="Branding" icon="theming" href="/" description="description" /%}
+{% quick-link title="Branding" icon="theming" href="/docs/branding" description="description" /%}
 
-{% quick-link title="Integrations" icon="theming" href="/" description="description" /%}
+{% quick-link title="Integrations" icon="theming" href="/docs/integrations-tab" description="description" /%}
+
+{% quick-link title="My Account" icon="theming" href="/" description="description" /%}
+
+{% quick-link title="Measurements Tab" icon="theming" href="/" description="description" /%}
+
+{% quick-link title="Marketing Tab" icon="theming" href="/" description="description" /%}
+
+{% quick-link title="Search Tab" icon="theming" href="/" description="description" /%}
+
+{% quick-link title="Storefront" icon="theming" href="/" description="description" /%}
+
+{% quick-link title="Home Tab" icon="theming" href="/" description="description" /%}
 
 {% /quick-links %}
 

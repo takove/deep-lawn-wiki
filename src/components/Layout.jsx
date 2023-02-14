@@ -35,24 +35,60 @@ const navigation = [
   {
     title: 'Branding',
     links: [
-      { title: 'Widget', href: '/docs/cacheadvance-predict' },
-      { title: 'Lead Form', href: '/docs/cacheadvance-flush' },
-      { title: 'Measurement', href: '/docs/cacheadvance-revert' },
-      { title: 'Service Cards', href: '/docs/cacheadvance-regret' },
-      { title: 'Checkout', href: '/docs/cacheadvance-revert' },
-      { title: 'Settings', href: '/docs/cacheadvance-regret' },
+      { title: 'Branding', href: '/docs/branding' },
+      // { title: 'Widget', href: '/docs/cacheadvance-predict' },
+      // { title: 'Lead Form', href: '/docs/cacheadvance-flush' },
+      // { title: 'Measurement', href: '/docs/cacheadvance-revert' },
+      // { title: 'Service Cards', href: '/docs/cacheadvance-regret' },
+      // { title: 'Checkout', href: '/docs/cacheadvance-revert' },
+      // { title: 'Settings', href: '/docs/cacheadvance-regret' },
     ],
   },
   {
     title: 'Integrations',
     links: [
-      { title: 'Installing the Widget', href: '/docs/how-to-contribute' },
-      { title: 'Integrations', href: '/docs/architecture-guide' },
-      { title: 'Add-ons', href: '/docs/design-principles' },
+      { title: 'Integrations', href: '/docs/integrations-tab' },
+      // { title: 'Integrations', href: '/docs/architecture-guide' },
+      // { title: 'Add-ons', href: '/docs/design-principles' },
     ],
   },
   {
     title: 'My Account',
+    links: [
+      { title: 'Title', href: '/docs/how-to-contribute' },
+      
+    ],
+  },
+  {
+    title: 'Measurements Tab',
+    links: [
+      { title: 'Title', href: '/docs/how-to-contribute' },
+      
+    ],
+  },
+  {
+    title: 'Marketing Tab',
+    links: [
+      { title: 'Title', href: '/docs/how-to-contribute' },
+      
+    ],
+  },
+  {
+    title: 'Search Tab',
+    links: [
+      { title: 'Title', href: '/docs/how-to-contribute' },
+      
+    ],
+  },
+  {
+    title: 'Storefront',
+    links: [
+      { title: 'Title', href: '/docs/how-to-contribute' },
+      
+    ],
+  },
+  {
+    title: 'Home Tab',
     links: [
       { title: 'Title', href: '/docs/how-to-contribute' },
       
