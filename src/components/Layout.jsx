@@ -55,42 +55,42 @@ const navigation = [
   {
     title: 'My Account',
     links: [
-      { title: 'Title', href: '/docs/how-to-contribute' },
+      { title: 'My Account', href: '/docs/my-account' },
       
     ],
   },
   {
     title: 'Measurements Tab',
     links: [
-      { title: 'Title', href: '/docs/how-to-contribute' },
+      { title: 'Measurements Tab', href: '/docs/measurements-tab' },
       
     ],
   },
   {
     title: 'Marketing Tab',
     links: [
-      { title: 'Title', href: '/docs/how-to-contribute' },
+      { title: 'Marketing Tab', href: '/docs/marketing-tab' },
       
     ],
   },
   {
     title: 'Search Tab',
     links: [
-      { title: 'Title', href: '/docs/how-to-contribute' },
+      { title: 'Search Tab', href: '/docs/search-tab' },
       
     ],
   },
   {
     title: 'Storefront',
     links: [
-      { title: 'Title', href: '/docs/how-to-contribute' },
+      { title: 'Storefront', href: '/docs/storefront' },
       
     ],
   },
   {
     title: 'Home Tab',
     links: [
-      { title: 'Title', href: '/docs/how-to-contribute' },
+      { title: 'Home Tab', href: '/docs/home-tab' },
       
     ],
   },
@@ -141,9 +141,9 @@ function Header({ navigation }) {
       </div>
       <div className="relative flex basis-0 justify-end gap-6 sm:gap-8 md:flex-grow">
         <ThemeSelector className="relative z-10" />
-        <Link href="https://github.com" className="group" aria-label="GitHub">
+        {/* <Link href="https://github.com" className="group" aria-label="GitHub">
           <GitHubIcon className="h-6 w-6 fill-slate-400 group-hover:fill-slate-500 dark:group-hover:fill-slate-300" />
-        </Link>
+        </Link> */}
       </div>
     </header>
   )
