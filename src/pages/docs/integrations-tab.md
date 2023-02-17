@@ -3,40 +3,6 @@ title: Integrations
 description: description
 ---
 
-## Widget Code
-
-## Integrations
-
-### Stripe
-
-### PayPal
-
-### Service AutoPilot
-
-### HubSpot
-
-### Marketing Mechanic
-
-### Other CRMs
-
-## Add-ons
-
-### PCI Vault
-
-### Geopricing
-
-### HD Measurements
-
-### House Square Footage
-
-### House Perimeter & Footprint
-
-### Snow Product
-
-### Team Members
-
-#### Sales
-
 #### Manager
 
 To add another team member, go to the integrations tab. Under the Add-ons sub-tab at the bottom of the page you will find the Team Members Add-on. You can then add additional accounts as either "Sales" or "Managers". "Sales" has access to orders, can generate measurements, and send quotes. "Managers" have access to everything except the "My Account" page. Additional Team Members cost $15 per month per member. Screenshots below:

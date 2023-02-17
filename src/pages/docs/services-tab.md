@@ -98,23 +98,8 @@ Then, when you are pasting the link into Deep Lawn, use the sheet's URL at the t
 
 ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg)
 
-## Service Recommendations
-
-### Packages
-
-#### Creating Packages
-
-#### Service Order in Packages
-
-#### Packages Recommendations
 
 ### Discounts
-
-#### Normal Discounts
-
-#### Checkout Discounts
-
-#### Discounts in a Package
 
 #### Discount Recommendations
 

@@ -3,44 +3,6 @@ title: Branding
 description: description
 ---
 
-## Widget
-
-### Widget Testing
-
-## Lead Form
-
-### Lead Form Recommendations
-
-## Measurements
-
-### Measurements Recommendations 
-
-## Service Cards
-
-###  Recommended Images Sizes
-
-## Checkout
-
-### Payment Options
-
-#### Pay Now
-
-#### Pay As You Go
-
-#### Pay By Check
-
-## Terms and Contions
-
-## E-Signatur
-
-## Checkout Questions
-
-## Settings
-
-### Enable Sales Tax
-
-### Enable Lead Emails
-
 ### Enable Abandoned Cart Emails
 
 For testing, on the branding page you will see an icon in the upper right hand corner that looks like a eye peering through a magnifying glass. This will generate a link to test your widget.
