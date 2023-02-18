@@ -11,6 +11,3 @@ To begin a search, type in an address in the search bar and select the address f
 
 While the automated measurement is taking place, you can fill out some optional lead information. This can be useful if you have the customer on the phone 
 
-## Select Services and Packages Page
-
-## Send Estimate Page
