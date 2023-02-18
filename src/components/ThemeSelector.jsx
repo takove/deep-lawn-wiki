@@ -47,18 +47,18 @@ function SystemIcon(props) {
 export function ThemeSelector(props) {
   let [selectedTheme, setSelectedTheme] = useState()
 
-  useEffect(() => {
-    if (selectedTheme) {
-      document.documentElement.setAttribute('data-theme', selectedTheme.value)
-    } else {
-      setSelectedTheme(
-        themes.find(
-          (theme) =>
-            theme.value === document.documentElement.getAttribute('data-theme')
-        )
-      )
-    }
-  }, [selectedTheme])
+  // useEffect(() => {
+  //   if (selectedTheme) {
+  //     document.documentElement.setAttribute('data-theme', selectedTheme.value)
+  //   } else {
+  //     setSelectedTheme(
+  //       themes.find(
+  //         (theme) =>
+  //           theme.value === document.documentElement.getAttribute('data-theme')
+  //       )
+  //     )
+  //   }
+  // }, [selectedTheme])
 
   // useEffect(() => {
   //   let handler = () =>
