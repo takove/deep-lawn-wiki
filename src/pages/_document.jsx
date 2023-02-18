@@ -7,7 +7,7 @@ const themeScript = `
     theme = theme ?? window.localStorage.theme ?? 'system'
 
     if (theme === 'dark' || (theme === 'system' && isDarkMode.matches)) {
-      document.documentElement.classList.add('dark')
+      document.documentElement.classList.add('light')
     } else if (theme === 'light' || (theme === 'system' && !isDarkMode.matches)) {
       document.documentElement.classList.remove('dark')
     }
