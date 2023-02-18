@@ -60,18 +60,18 @@ export function ThemeSelector(props) {
     }
   }, [selectedTheme])
 
-  useEffect(() => {
-    let handler = () =>
-      setSelectedTheme(
-        themes.find(
-          (theme) => theme.value === (window.localStorage.theme ?? 'system')
-        )
-      )
+  // useEffect(() => {
+  //   let handler = () =>
+  //     setSelectedTheme(
+  //       themes.find(
+  //         (theme) => theme.value === (window.localStorage.theme ?? 'system')
+  //       )
+  //     )
 
-    window.addEventListener('storage', handler)
+  //   window.addEventListener('storage', handler)
 
-    return () => window.removeEventListener('storage', handler)
-  }, [])
+  //   return () => window.removeEventListener('storage', handler)
+  // }, [])
 
   return (
     <Listbox
