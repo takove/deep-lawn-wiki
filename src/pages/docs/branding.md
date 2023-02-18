@@ -3,7 +3,7 @@ title: Branding
 description: description
 ---
 
-### Enable Abandoned Cart Emails
+## Enable Abandoned Cart Emails
 
 For testing, on the branding page you will see an icon in the upper right hand corner that looks like a eye peering through a magnifying glass. This will generate a link to test your widget.
 
