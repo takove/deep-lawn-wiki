@@ -4,8 +4,8 @@ import clsx from 'clsx'
 
 const themes = [
   { name: 'Light', value: 'light', icon: LightIcon },
-  { name: 'Dark', value: 'dark', icon: DarkIcon },
-  { name: 'System', value: 'system', icon: SystemIcon },
+  { name: 'Dark', value: 'light', icon: DarkIcon },
+  { name: 'System', value: 'light', icon: SystemIcon },
 ]
 
 function LightIcon(props) {
@@ -47,31 +47,31 @@ function SystemIcon(props) {
 export function ThemeSelector(props) {
   let [selectedTheme, setSelectedTheme] = useState()
 
-  // useEffect(() => {
-  //   if (selectedTheme) {
-  //     document.documentElement.setAttribute('data-theme', selectedTheme.value)
-  //   } else {
-  //     setSelectedTheme(
-  //       themes.find(
-  //         (theme) =>
-  //           theme.value === document.documentElement.getAttribute('data-theme')
-  //       )
-  //     )
-  //   }
-  // }, [selectedTheme])
+  useEffect(() => {
+    if (selectedTheme) {
+      document.documentElement.setAttribute('data-theme', selectedTheme.value)
+    } else {
+      setSelectedTheme(
+        themes.find(
+          (theme) =>
+            theme.value === document.documentElement.getAttribute('data-theme')
+        )
+      )
+    }
+  }, [selectedTheme])
 
-  // useEffect(() => {
-  //   let handler = () =>
-  //     setSelectedTheme(
-  //       themes.find(
-  //         (theme) => theme.value === (window.localStorage.theme ?? 'system')
-  //       )
-  //     )
+  useEffect(() => {
+    let handler = () =>
+      setSelectedTheme(
+        themes.find(
+          (theme) => theme.value === (window.localStorage.theme ?? 'system')
+        )
+      )
 
-  //   window.addEventListener('storage', handler)
+    window.addEventListener('storage', handler)
 
-  //   return () => window.removeEventListener('storage', handler)
-  // }, [])
+    return () => window.removeEventListener('storage', handler)
+  }, [])
 
   return (
     <Listbox
