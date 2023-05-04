@@ -3,6 +3,15 @@ title: Integrations
 description: description
 ---
 ## Add-ons
+| ![image](https://i.imgur.com/FfZaECE.png) | 
+|:--:| 
+| *Location of Add-ons* |
+
+The Add-ons sub-tab can be found under the Integrations Tab and includes features including
+
+### Snow Product
+
+![image](https://i.imgur.com/vdBUdMe.png)
 
 ### Team Members
 

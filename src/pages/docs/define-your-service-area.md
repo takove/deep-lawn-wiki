@@ -10,7 +10,7 @@ Tutorial Video: [Click to see step-by-step video](https://www.youtube.com/watch?
 |:--:| 
 | *When a customer searches outside your service area* |
 
-Deep Lawn's service area allows you to identify the areas you service. Customers inside your service area will be able to get an estimate on your Storefront Widget, while customers outside your service area will not and instead see a picture of the area you do service.
+Deep Lawn's service area allows you to identify the areas you service. Customers inside your service area will be able to get an estimate on your Storefront Widget, while customers outside your service area will not and instead see a picture of the area you do service:
 
 
 ## Adding Regions

@@ -24,13 +24,13 @@ Give your service a name, description, and upload any associated artwork. Then s
 |:--:| 
 | *Default Lawn Search Measurement Options* |
 
-Next, select what type of measurement will be used to price your service. By default new services will be Lawn Search Type Services. Measurements Lawn and Lot area are always available. 
+Next, select what type of measurement will be used to price your service. By default new services will be Lawn Search Type Services. The measurements of the Lawn Area and Lot Area are always available. 
 
 | ![Additional Add-on Measurements](https://i.imgur.com/EorHdjX.png) | 
 |:--:| 
 | *Additional Add-on Measurements* |
 
-House Footprint & Perimeter & House Square Footage are available as Add-ons at the additional cost of $0.15 per search.
+House Footprint & Perimeter & House Square Footage measurements are available as Add-ons at the additional cost of $0.15 per search.
 
 | ![Search Type Toggle & Snow Product Measurements](https://i.imgur.com/WfZKbXc.png) | 
 |:--:| 
@@ -42,11 +42,10 @@ If you have the Snow Product enabled, you can toggle the Search Type to either L
 |:--:| 
 | *Visibility & Enable Service Quantity Toggles* |
 
-The Visibility toggle sets whether a measurement is visible to your customers searching through your Storefront Widget. They will also be hidden when you search through your Preview Widget. Hidden services will still be visible, when you perform internal Dashboard Searches. Many customers use these features to have “special” hidden services that are only available when sending out Quotes through the dashboard. 
+The Visibility toggle sets whether a measurement is visible to your customers searching through your Storefront Widget. They will also be hidden when you search through your Preview Widget. Hidden services will still be visible, when you perform internal Dashboard Searches. Many customers use these features to have “special” hidden services that are only available when sending out Quotes through the dashboard. This feature is also often used.
 
+The Enable Service Quantity toggle allows you to prevent customers from purchasing multiple quantities of a service through your Storefront Widget, or if you perform searches through your Preview Widget. Not Allow Quantities will also restrict you from adding multiple quantities of a service when performing searches through the dashboard or when creating packages.
 
-
-The Enable Service Quantity toggle allows you to prevent customers from purchasing multiple quantities of a service through your Storefront Widget, or if you perform searches through your Preview Widget. You always have the ability to add multiple quantities of a service when performing searches through the dashboard or when creating packages.
 
 | ![Selecting Regions w/ Geopricing](https://i.imgur.com/zoioXUU.png) | 
 |:--:| 
